@@ -25,9 +25,9 @@
 A multi-tenant POS for inventory, customers, rentals, and payments.<br/>
 Next.js, TypeScript, and Supabase, with role-based permissions and tenant isolation.
 
-<a href="https://leaxio.com"><img src="./assets/leaxio.jpg" width="100%" alt="Leaxio dashboard showing rental operations and pending returns with demonstration data" /></a>
+<a href="https://leaxio.com"><img src="./assets/leaxio-current.jpg" width="100%" alt="Leaxio dashboard showing rental operations and pending returns with demonstration data" /></a>
 
-<sub>Product screenshot with demo data. [Explore Leaxio →](https://leaxio.com)</sub>
+<sub>Current dashboard screenshot with demo data. [Explore Leaxio →](https://leaxio.com)</sub>
 
 <br/><br/>
 
